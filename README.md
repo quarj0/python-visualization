@@ -1,3 +1,3 @@
 # python-visualization
 
-Practical examples of visualizations using # Python
+Practical examples of visualizations using #Python
