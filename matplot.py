@@ -15,3 +15,9 @@ y=x*x+2
 # plt.plot(y,x)
 # plt.show()
 
+# plotting continues
+
+plt.plot(x,x+1,'blue')
+plt.plot(x,x+2,'black')
+plt.plot(x,y+2,'r')
+plt.show()
