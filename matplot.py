@@ -17,7 +17,8 @@ y=x*x+2
 
 # plotting continues
 
-plt.plot(x,x+1,'blue')
+plt.plot(x,x+1,'blue') # can also use color="preferred color"
 plt.plot(x,x+2,'black')
 plt.plot(x,y+2,'r')
 plt.show()
+
