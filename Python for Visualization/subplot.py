@@ -1,10 +1,8 @@
-import matplotlib.pylab as pb
+
 import matplotlib.pyplot as plt
 from seaborn import *
-import seaborn as sns
 import numpy as np
-import pandas as pd
-import cv2 as cv
+
 
 x = np.linspace(0, 50, 25)
 y = x*x+2
