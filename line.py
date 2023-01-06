@@ -9,12 +9,12 @@ from matplot import * # from the previous file
 # plt.legend() # you nedd to provide some else nothing will show
 # plt.show()
 
-x = np.arange(2,100,2.5)
-y = x**2
+# x = np.arange(2,100,2.5)
+# y = x**2
 
-plt.scatter(x,y,c='g')
-plt.title("")
-plt.show()
+# plt.scatter(x,y,c='g')
+# plt.title("")
+# plt.show()
 
 # food = 'Banku', 'Akpele', 'Fufu', 'Ampesie', 'Rice', 'Bread'
 # size = [30, 150, 45, 25,50, 60]
