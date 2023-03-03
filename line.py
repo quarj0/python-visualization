@@ -16,11 +16,11 @@ from matplot import * # from the previous file
 # plt.title("")
 # plt.show()
 
-# food = 'Banku', 'Akpele', 'Fufu', 'Ampesie', 'Rice', 'Bread'
-# size = [30, 150, 45, 25,50, 60]
-# plt.pie(size, colors=('blue', 'red', '#ccc',
-#                       'green','pink','brown'),
-#         labels=food, autopct='%1.1f%%', explode=(0,.1,0,0,0,0))
-# plt.title("Okomfo Anokye's Daily Food")
-# # plt.legend(loc='best')
-# plt.show()
+food = 'Banku', 'Akpele', 'Fufu', 'Ampesie', 'Rice', 'Bread'
+size = [30, 150, 45, 25,50, 60]
+plt.pie(size, colors=('blue', 'red', '#ccc',
+                      'green','pink','brown'),
+        labels=food, autopct='%1.1f%%', explode=(0,.1,0,0,0,0))
+plt.title("Okomfo Anokye's Daily Food")
+# plt.legend(loc='best')
+plt.show()
